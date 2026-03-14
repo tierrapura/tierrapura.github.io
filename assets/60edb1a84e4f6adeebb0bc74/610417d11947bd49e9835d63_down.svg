@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>element/icon/16/arrow/down</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="element/item/1" transform="translate(-627.000000, -40.000000)" stroke="#07372C" stroke-width="1.5">
+            <g id="element/icon/16/arrow/down" transform="translate(624.000000, 32.000000)">
+                <polyline id="Path" points="4.5 9 12 16.5 19.5 9"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

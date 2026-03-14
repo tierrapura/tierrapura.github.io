@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="33px" viewBox="0 0 34 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>leaf-outline</title>
+    <defs>
+        <linearGradient x1="95.3349965%" y1="0%" x2="4.66500347%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AEDB5A" offset="0%"></stop>
+            <stop stop-color="#00A960" offset="51.2583893%"></stop>
+            <stop stop-color="#31825F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="37.4169352%" x2="0%" y2="62.5830648%" id="linearGradient-2">
+            <stop stop-color="#AEDB5A" offset="0%"></stop>
+            <stop stop-color="#00A960" offset="51.2583893%"></stop>
+            <stop stop-color="#31825F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="element/icon/48/1-copy-8" transform="translate(-11.000000, -11.000000)" stroke-width="2">
+            <g id="leaf-outline" transform="translate(12.000000, 13.000000)">
+                <path d="M21.0176212,8.21432511 C14.1961298,3.82332595 7.13597431,6.97548522 0.613004613,0.0930413966 C-0.906463623,-1.51286216 -0.0239441932,18.1021027 8.14127906,25.5351421 C14.1109474,30.9646255 23.3282873,30.3589705 26.4362905,25.0824302 C29.5442938,19.8058899 27.8391127,12.6045596 21.0176212,8.21432511 Z" id="Path" stroke="url(#linearGradient-1)"></path>
+                <path d="M9.59168055,14.4528781 C16.1913911,20.6470775 23.0213241,24.3177142 32,25.694203" id="Path" stroke="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
