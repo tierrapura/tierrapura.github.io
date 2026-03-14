@@ -12,7 +12,7 @@
     label = 'ES';
   } else {
     // On Spanish page → link to English
-    targetPath = '/en' + (path === '/' ? '/index.html' : path);
+    targetPath = '/en' + (path === '/' ? '/' : path);
     targetLang = 'EN';
     flagEmoji = '\uD83C\uDDEC\uD83C\uDDE7';
     label = 'EN';
