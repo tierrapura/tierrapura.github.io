@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>element/icon/48/1</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(-126.000000, -1107.000000)" filter="url(#filter-1)">
+            <g transform="translate(120.000000, 1088.000000)">
+                <g id="Group" transform="translate(0.000000, 13.000000)" stroke="#07372C" stroke-width="2">
+                    <g transform="translate(6.000000, 6.000000)">
+                        <rect id="Rectangle" x="1" y="1" width="14" height="14"></rect>
+                        <rect id="Rectangle-Copy" x="21" y="1" width="14" height="14"></rect>
+                        <rect id="Rectangle-Copy-2" x="21" y="21" width="14" height="14"></rect>
+                        <rect id="Rectangle-Copy-3" x="1" y="21" width="14" height="14"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
